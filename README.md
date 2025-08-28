@@ -31,10 +31,11 @@ LIMIT 1;
 📷 Query Output Examples
 
 **1. Top 3 Most Expensive Books of Fantasy Genre**
-![Top 3 Fantasy Books](images/top3_fantasy_books.png)
+![Top 3 Fantasy Books](CUSTOMER TABLE.PNG.png)
 
 **2. Customers Table Output**
 ![Customers Table](images/customers_table.png)
+
 
 
 
