@@ -28,3 +28,13 @@ SELECT \* FROM BOOKS
 ORDER BY PRICE DESC
 LIMIT 1;
 
+📷 Query Output Examples
+
+**1. Top 3 Most Expensive Books of Fantasy Genre**
+![Top 3 Fantasy Books](images/top3_fantasy_books.png)
+
+**2. Customers Table Output**
+![Customers Table](images/customers_table.png)
+
+
+
